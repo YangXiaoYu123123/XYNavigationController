@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4ACC9051-0396-4A18-8A13-557FE27EFEA6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XYNavigationController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B60847A-60B4-4D2E-B9E2-FF53F5A0934A</key>
+		<string>https://github.com/yxyontheway/XYNavigationController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XYNavigationController/XYNavigationController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B60847A-60B4-4D2E-B9E2-FF53F5A0934A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yxyontheway/XYNavigationController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B60847A-60B4-4D2E-B9E2-FF53F5A0934A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B60847A-60B4-4D2E-B9E2-FF53F5A0934A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XYNavigationController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
